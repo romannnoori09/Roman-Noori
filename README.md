@@ -18,7 +18,7 @@ Currently learning:
 
 ## 🖥️ Home Lab Projects
 
-### Windows Server 2022 Active Directory Lab
+### [Windows Server 2022 Active Directory Lab]( https://github.com/romannnoori09/Windows-Server-Active-Directory-Lab)
 - Installed and configured Windows Server 2022
 - Created users and groups
 - Joined Windows clients to domain
